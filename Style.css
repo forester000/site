@@ -1,0 +1,19 @@
+body{
+	background-color: #8084ff;
+}
+#u1{
+	border: 5px solid black;
+	border-radius: 30px;
+	margin-bottom: 100px;
+	width: 20%;
+}
+#d1{
+	font-size: 19px;
+	border: 2px solid #4d52ff;
+	border-radius: 35px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+#h1{
+	font-size: 40px;
+}
